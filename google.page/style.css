@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Gabarito&family=Montserrat:ital,wght@1,600&family=Mooli&family=Pixelify+Sans:wght@500&family=Poppins:wght@300&family=Titillium+Web&family=Ubuntu:ital,wght@1,500&display=swap');
+*body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar {
+    display: flex;
+    text-decoration: none;
+    flex-direction: row;
+    justify-content: end;
+    height: 30px;
+}
+.items {
+    margin-left: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;
+}
+.icon {
+    font-size: 30px;
+    padding-right: 30px;
+}
+.btn {
+    width:100px;
+    padding-right: 10px;
+    background-color: skyblue;
+    border-radius: 5px;
+}
+.image {
+    padding: 0px 30px 0px;
+    text-decoration: none;
+    padding-top: 5px;
+}
+.home {
+    margin-top: 200px;
+    margin-right: 100px;
+}
+.google {
+    font-size: 100px;
+    margin-top: 100px;
+    position: relative;
+    top: 70px;
+}
+.search-bar i{
+    position: absolute;
+    right: 1px;
+    padding-right:710px;
+    padding-top: 5px;
+}
+.search {
+    width:600px;
+    height: 25px;
+    border: 2px solid #acacec;
+}
+.buttons{
+    padding:20px;
+    
+}
+.btns {
+    margin-left: 15px;
+    padding:5px 5px;
+    background-color:lightcyanS;
+    border: transparent;
+}
+.footer i{
+    font-size: 30px;
+}
+.footer{
+    font-family: "Bad Script", cursive;
+    letter-spacing: 2px;
+}

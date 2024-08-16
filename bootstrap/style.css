@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Gabarito&family=Montserrat:ital,wght@1,600&family=Mooli&family=Pixelify+Sans:wght@500&family=Poppins:wght@300&family=Titillium+Web&family=Ubuntu:ital,wght@1,500&display=swap');
+
+.mass-logo{
+    height: 100px;
+    padding: 20px;
+}
+.mass-body {
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+}
+
+.item-nav{
+    color:#f5efef;
+
+}
+.item-nav:hover{
+    color: green;
+}
+.anchor{
+    margin-left: auto;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+
+}
+.body-section{
+    height: 87vh;
+}
+.box-left{
+    color: white;
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+    padding:100px;
+}
+.my-logo{
+    align-content: center;
+}
+.my-logo{
+    width:380px;
+    height: 380px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.body-h1{
+    font-size: 30px;
+}
+.body-p{
+    font-size:20px;
+}
+.serv-h1{
+    color:white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+.serv-p{
+    color:white;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.wh-h1{
+    color:white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+.wh-p{
+    color:white;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.cs-h1{
+    color:white;
+    font-size:30px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.logo-1{
+    height: 350px;
+    width: 100%;
+}
+.card-1:hover{
+    padding: 10px;
+    text-align: center;
+    border: 2px solid green;
+}
+.card-2:hover{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid green;
+}
+.card-h1{
+    color:white;
+    font-size:30px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.card-p{
+    color:white;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.workshop{
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.work-h1{
+    color:white;
+    font-size:30px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.work-h2{
+    color:white;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.card-1{
+    border: 2px solid white;
+}
+.card-2{
+    border: 2px solid white;
+}
+.social-icon-img{
+    height: 50px;
+    padding: 5px;
+}
+.social-icons{
+    text-align: center;
+}

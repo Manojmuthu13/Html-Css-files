@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Dosis:wght@200..800&family=Ga+Maamli&display=swap');
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1{
+    color:chartreuse;
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    letter-spacing: 20px;
+    font-style: normal;
+    font-weight: bold;
+    word-spacing: 4px;
+    text-decoration:line-through;
+    text-transform: uppercase;
+    
+}
+
+p{
+    color:chocolate;
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+    letter-spacing: 15px;
+    font-style: oblique;
+    font-weight: lighter;
+    word-spacing: 5px;
+    text-decoration:wavy;
+    text-transform: uppercase;
+}

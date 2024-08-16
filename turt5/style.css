@@ -1,0 +1,16 @@
+.lists{
+    list-style-type: circle;
+}
+
+ th, td {
+    border: 1px inset #80959b;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    background-color: aquamarine;
+  }
+
+  .my-container{
+    color:blue;
+  }

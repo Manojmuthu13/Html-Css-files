@@ -1,0 +1,13 @@
+.my-container{
+    height: 100vh;
+    background-color: brown;
+    text-align: center;
+}
+
+label{
+    color: greenyellow;
+}
+
+input{
+    color:blue;
+}

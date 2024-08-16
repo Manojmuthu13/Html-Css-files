@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Gabarito&family=Montserrat:ital,wght@1,600&family=Mooli&family=Pixelify+Sans:wght@500&family=Poppins:wght@300&family=Titillium+Web&family=Ubuntu:ital,wght@1,500&display=swap');
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    background-color: deepskyblue;
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:0 20px;
+    color: aliceblue;
+}
+.right-navbar {
+    display: flex;
+    justify-content:center;
+    padding: 7px;
+    border:0;
+    margin: 10px;
+    outline: 0;
+    color:white;
+
+}
+.btn {
+    margin-top: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 15px;
+    cursor: pointer;
+    color:white;
+}
+.btn:hover {
+    color:orange;
+    background-color: aliceblue;
+}
+.nav-items{
+    display: flex;
+    background: transparent;
+    cursor: pointer;
+    margin-left: 70px;
+    font-size: larger;
+}
+.nav-items:hover {
+    color: orange
+}
+ .wrapper {
+    flex-direction: row;
+    justify-items: center;
+    text-align: center;
+    background: transparent;
+    margin-top: 250px;
+    width: 400px;
+    height: 400px;
+    margin-left: 770px;
+    color: white;
+
+}
+.input-box {
+    width 100%;
+    margin-top: 20px;
+    color:white;
+}
+.user {
+    width:100%;
+    height: 50px;
+    border-radius: 40px;
+    padding:10px;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+.input-box i {
+    position: absolute;
+    padding:20px 0;
+    margin:10px 0;
+}
+.pass {
+    width:100%;
+    height: 50px;
+    border-radius: 40px;
+    padding:10px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.rem-for {
+    color: white;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin: 5px;
+} 
+.btn {
+    width:100%;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    color:aliceblue;
+}
+.para {
+    color:aliceblue;
+    margin:10px;
+    font-size: 15px;
+}
